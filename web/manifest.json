@@ -1,6 +1,6 @@
 {
-    "name": "mytsel",
-    "short_name": "mytsel",
+    "name": "flutter-learn",
+    "short_name": "flutter-learn",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

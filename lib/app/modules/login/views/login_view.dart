@@ -2,7 +2,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:mytsel/app/routes/app_pages.dart';
+import 'package:flutter-learn/app/routes/app_pages.dart';
 
 import '../controllers/login_controller.dart';
 

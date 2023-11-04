@@ -1,9 +1,9 @@
 import 'package:get/get.dart';
 
-import 'package:mytsel/app/modules/home/bindings/home_binding.dart';
-import 'package:mytsel/app/modules/home/views/home_view.dart';
-import 'package:mytsel/app/modules/login/bindings/login_binding.dart';
-import 'package:mytsel/app/modules/login/views/login_view.dart';
+import 'package:flutter-learn/app/modules/home/bindings/home_binding.dart';
+import 'package:flutter-learn/app/modules/home/views/home_view.dart';
+import 'package:flutter-learn/app/modules/login/bindings/login_binding.dart';
+import 'package:flutter-learn/app/modules/login/views/login_view.dart';
 
 part 'app_routes.dart';
 
